@@ -37,17 +37,6 @@ Valg kan foregå hemmelig dersom det blir fremmet krav om det. Når kandidater t
 ## § 3.2. 
 Dersom flere kandidater skal velges samtidig, skal stemmeseddelen inneholde navnet på de kandidatene som får stemmene ved valget. De kandidatene som får flere enn halvparten av stemmene er valgt. Stemmesedler som ikke inneholder noen navn eller inneholder navn på andre enn de som stiller som kandidater er ikke gyldige. Dersom ikke tilstrekkelig antall kandidater får mer enn halvparten av stemmene, vil det bli tvunget omvalg mellom de resterende kandidatene. Ved stemmelikhet vil valget avgjøres med loddtrekning.
 
-# § 4. Styremøte
-
-## §4.1. Styremøte
-Det skal avholdes styremøte minst 1 gang hvert halvår, og ellers ved behov. Tvister i styret avgjøres demokratisk, dvs. ved å stemme. Ved likt antall stemmer, teller styreleders stemme dobbelt. Minst 4/5 fra sittende styre må delta for at styret kan anses beslutningsdyktig.
-
-## § 4.2. Andre møter
-Hvis behovet er til stede for andre type møter enn årsmøte og styremøte, kan medlemmene i Spillforeningen 2d6 kreve at styret kaller inn til medlemsmøte. Styret kan også bestemme at styremøter er åpne for medlemmene av Spillforeningen 2d6 som bisittere, eller med forslag, tale og stemmerett.
-
-## § 4.3. Referat
-Det skal skrives referat fra samtlige styre-, og andre klubbmøter. Dette skal gjøres innen 14 dager etter avholdt møte, og legges ut på forumet vårt. 1 kopi skal også legges i dropbox og skrives ut og legges i klubbmappa vår.
-
 # § 5. Vedrørende drift av Spillforeningen 2d6
 
 ## § 5.1. Klubbmappe
@@ -79,7 +68,7 @@ Ved manglende betaling av turneringskontingent vil straffegebyr på kr 100,- pr.
 Ved manglende oppgjør av regning på kiosk-varer, vil medlemmet motta en purring fra styret, ved mail. Frist for betaling vil være 7 dager etter mottatt mail. Ved fortsatt manglende oppgjør av regning på kiosk-varer vil straffegebyr på kr 50,- pr. purring bli benyttet. 3 purringer er maks. Frist mellom hver purring er minimum 14 dager. Ved mer enn 3 purringer kan styret vurdere utestengelse fra 2d6-kiosken i opptil 12 mnd. Ved stadige gjentagelser ut over dette, kan styret vurdere opptil permanent utestengelse fra 2d6-kiosken.
 
 ## § 5.4. Gjestespillere
-Det er anledning for andre enn 2d6-medlemmer å spille i Spillforeningen 2d6 sine lokaler, men kun etter avtale med et 2d6-medlem. 2d6-medlemmet som har invitert gjestespilleren, er ansvarlig for at denne overholder gjeldende ordensreglement, og må selv være til stede. Pris pr. gjestespiller er kr 60,- betales av 2d6-medlemmet som har invitert gjestespilleren. Kiosksystemet benyttes til dette.
+Det er anledning for andre enn 2d6-medlemmer å spille i Spillforeningen 2d6 sine lokaler. Styret ved dets leder skal alltid varsles om dette i forkant. Styret kan si nei.
 
 ## § 5.5. IT-ansvarlig
 Spillforeningen 2d6 skal velge en person som er IT-ansvarlig, og har som ansvar å drifte forumet og nettsiden. IT-ansvarlig gis admin rettigheter på forumet. IT-ansvarlig skal samarbeide tett med styret i Spillforeningen 2d6 og kan ved behov kalles inn til styremøter, da med tale-, og forslagsrett.
@@ -119,53 +108,13 @@ Alle medlemmer plikter å påta seg de arbeidsoppgaver de blir forespurt av styr
 Styremedlemmene i Spillforeningen 2d6 velges for 2 år av gangen. Generalforsamlingen på årsmøtet kan beslutte vedtak som fraviker dette. Det er ingen begrensning for hvor mange perioder man kan inneha et styreverv.
 
 ## § 7.2. Styrevervene
-Styret i Spillforeningen 2d6 skal bestå av 5 styremedlemmer. De forskjellige styremedlemmene har forskjellige, definerte ansvars-, og arbeidsområder, og består av: 1 styreleder, 1 arrangementsansvarlig, 1 kasserer, 1 sekretær og 1 materialforvalter. Enkeltmedlemmer i Spillforeningen 2d6 velges derfor inn i spesifikke styreverv.
+Styret i Spillforeningen 2d6 skal bestå av 5 styremedlemmer, 1 styreleder, 1 kasserer, og 3 styremedlemmer.
 
-Disse er å betrakte som en styringsgruppe.
+## § 7.3. 
+Styret konstituerer seg selv på første styremøte etter årsmøtet, og fordeler ansvar-, og arbeidsoppgaver på en hensiktsmessig måte blant styremedlemmene.
 
-## § 7.3. Ansvarsfordeling
-
-### § 7.3.1. Styrelederens ansvar, plikter og arbeidsoppgaver
-
-Styreleder har koordineringsansvaret for drift av Spillforeningen 2d6 og ansvar for at saker av betydning for Spillforeningen 2d6, eller dets medlemmer, blir behandlet av styret, og at medlemmene orienteres. Han er også økonomisk ansvarlig for klubbens økonomi. Dette ansvaret er personlig, og styrelederen står oppført som økonomisk ansvarlig i Brønnøysundregistrene. Ansvaret følger vervet. Ved skifte av styreleder skal ny styreleder gjøre nødvendig forandring i Brønnøysundregistrene innen 2 mnd. etter overtakelse. Når dette har blitt ordnet, skal styret i Spillforeningen 2d6 og forrige styreleder varsles. Styrelederen skal lage saksliste og innkalling til generalforsamlinger og styremøter, samt avholde disse som ordstyrer. Han er ansvarlig for at referater blir gjort tilgjengelige for medlemmene, at valg gjennomføres iht. vedtektene og for at nødvendige endringer i vedtektene, vedtatt på årsmøtene til Spillforeningen 2d6, blir implementert. Styrelederen skal ta imot nye medlemmer og gi dem all relevant informasjon om Spillforeningen 2d6.
-
-Alle styrelederens arbeidsoppgaver kan delegeres til andre medlemmer i klubben.
-
-### § 7.3.2. Arrangementsansvarliges ansvar, plikter og arbeidsoppgaver
-
-Arrangementsansvarlig har det overordnede ansvar for at Spillforeningen 2d6 sine turneringer og andre arrangementer blir driftet i henhold til gjeldende vedtak. Arrangementsansvarlig skal ha moderatorrettigheter på alle 2d6 sine turneringer. Arrangementsansvarlig skal påse at turneringer, dugnader, interne aktiviteter og sosiale arrangementer blir gjennomført som planlagt. 1 uke før hvert 2d6 arrangement skal arrangementsansvarlig ringe og snakke med arrangør av arrangementet for å sikre at alle forberedelser til arrangementet er ferdig. Arrangementsansvarlig har også ansvar for Spillforeningen 2d6 sitt turneringsmateriell, her definert som turneringsbord, turneringsterreng og annet fysisk utstyr som befinner seg på turneringslokasjonen, nødvendig for å kunne gjennomføre Spillforeningen 2d6 sine arrangementer.
-
-Arrangementsansvarlig har det overordnede ansvar for promotering av Spillforeningen 2d6 sine arrangementer. Dette vil si at arrangementsansvarlig skal sørge for at flyers og annet reklamemateriell for klubben og turneringene våre blir laget og lagt ut god tid før arrangementene våre (minimum 6 uker i forveien).
-
-Arrangementsansvarlig skal i tillegg til sine andre plikter, også inneha funksjon som nestleder. I egenskap av sin funksjon som nestleder, skal arrangementsansvarlig avholde generalforsamling og styremøte i styrelederens sted, hvis styrelederen er forhindret fra deltagelse.
-
-Alle arrangementsansvarliges arbeidsoppgaver kan delegeres til andre medlemmer i klubben.
-
-### § 7.3.3. Kassererens ansvar, plikter og arbeidsoppgaver
-
-Kasserer skal påse at husleia vår, forumet og andre regninger blir betalt til rett tid, og at medlemmene betaler korrekt beløp til riktig tid. Ved unntak og andre løsninger ang. medlemmers innbetalinger, må kasserer til enhver tid varsles og ha den fulle oversikt. Interne innbetalingsproblemer skal varsles styret, så styret sammen finner løsning på dette. Kassereren plikter å lage et forenklet regnskap etter hver avholdte 2d6-turnering. Disse skal med i årsregnskapet som kassereren plikter å lage innen utgangen av november, slik at dette kan legges ut på forumet og gjøres tilgjengelig for alle medlemmene før årsmøtet avholdes. 1 kopi skal også legges i klubbmappa. Kassereren skal sette inn eventuelle overskudd etter turneringene våre på klubbens konto. Kassereren har ansvar for Spillforeningen 2d6 sitt bankkort. Dette skal ikke oppbevares på klubben. Bankkortet kan lånes ut til andre 2d6-medlemmer når dette er nødvendig. Kassereren er også kontaktperson/-ledd mellom Spillforeningen 2d6 og utleier, samt andre eksterne personer tilknyttet drift av Spillforeningen 2d6.
-
-Kassererens arbeidsoppgaver er personlige og kan ikke delegeres til andre medlemmer i klubben.
-
-### § 7.3.4. Sekretærens ansvar, plikter og arbeidsoppgaver
-
-Sekretæren har som hovedoppgave å samarbeide med styrelederen om den daglige, interne driften av Spillforeningen 2d6. Sekretæren skal føre referat fra Spillforeningen 2d6 sine møter, og påse at Spillforeningen 2d6 sine vedtekter og ordensreglement overholdes. Sekretæren har som ansvar å oppdatere klubbens laptop med de nyeste FAQ, GOEPP, Armybuilder, regelbøker og lignende, og han er ansvarlig for Spillforeningen 2d6 sitt klubbforum.
-
-Alle arbeidsoppgavene til sekretæren kan delegeres til andre medlemmer i klubben.
-
-### § 7.3.5. Materialforvalterens ansvar, plikter og arbeidsoppgaver
-
-Materialforvalter har i korte trekk ansvar for de fysiske eiendelene til Spillforeningen 2d6, samt skal fungere som en kontaktperson opp mot eksterne leverandører som tilbyr varer og/eller tjenester av interesse for Spillforeningen 2d6. Det vil si at materialforvalteren har et overordnet ansvar for å påse at samtlige anskaffelser til klubben blir gjennomført som vedtatt og ivaretatt på en forsvarlig måte. Dette gjelder for alle 2d6 sine eiendeler, unntatt turneringsmateriell, her definert som turneringsbord, turneringsterreng og annet fysisk utstyr som befinner seg på turneringslokasjonen, nødvendig for å kunne gjennomføre Spillforeningen 2d6 sine arrangementer. Materialforvalteren har ansvar for å oppdatere ordensreglene, samt utarbeide og påse at interne rutiner vedrørende klubbkiosken blir fulgt opp. Dette dreier seg om alt fra innkjøp av varer, hvilke varer som skal tilbys, prislister, betalingssystemer, fjerning av tomgods, søppel, o.l. I tillegg har materialforvalteren ansvar for forvaltning, innkjøp og distribusjon av klubbeffekter* og har ansvar for å sørge for at disse effektene er tilgjengelige for medlemmene av 2d6.
-
-Materialforvalter skal ordne med anskaffelse av nøkler, slik at alle 2d6-medlemmer har hver sin personlige nøkkel.
-
-*En kortfattet liste med eksempler på en del klubbeffekter: Army-bøker, målebånd, templates, klubbterninger, klubbskjorter, arrangørskjorter, arrangementskalender, gjestespillerlister, o.l.
-
-Materialforvalterens arbeidsoppgaver kan delegeres til andre medlemmer i klubben.
-
-## § 7.4. Styringsgruppens rettigheter
-
-Styringsgruppen har ansvaret for den daglige, operative driften, Spillforeningen 2d6 sin økonomi, samtlige prosjekter i regi av Spillforeningen 2d6, nye medlemmer, dugnads/turnerings-datoer, div velferdssaker, o.l., som medlemmene er opptatt av, m.m. Styret har fullmakt til å fatte beslutninger med en økonomisk ramme på opptil 25% av opptjent egenkapital. Beslutninger og investeringer som har større kostnader utover dette, avgjøres av medlemmene i Spillforeningen 2d6 ved avstemming.
+## § 7.4. Styremøte
+Det skal avholdes styremøte minst 1 gang hvert halvår, og ellers ved behov. Tvister i styret avgjøres demokratisk, dvs. ved å stemme. Ved likt antall stemmer, teller styreleders stemme dobbelt. Minst 4/5 fra sittende styre må delta for at styret kan anses beslutningsdyktig.
 
 # § 8. Vedtektsendringer
 
