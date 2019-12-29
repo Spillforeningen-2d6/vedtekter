@@ -41,9 +41,6 @@ Dersom flere kandidater skal velges samtidig, skal stemmeseddelen inneholde navn
 ## § 5.1. Klubbmappe
 Mappa skal inneholde leiekontrakten vår, årsregnskaper, referater, rutinebeskrivelser og ellers all relevant informasjon for å kunne drifte Spillforeningen 2d6. Begrepet klubbmappe kan brukes om en elektronisk mappe, f.eks. dropbox eller lignende.
 
-## § 5.2. Arrangementskalender
-Det skal henge en kalender på veggen i 2d6, hvor våre interne og eksterne aktiviteter skal føres opp.
-
 ## § 5.3. Interne rutiner
 Styret har ansvar for at det utarbeides egne rutiner for å lette driften av 2d6, skape forutsigbarhet og likebehandling, samt sikre en forsvarlig, økonomisk driftsmodell. Slike rutiner skal godkjennes av medlemmene før iverksettelse. Det samme gjelder ved endring og fjerning av eksisterende rutine. Alle rutinebeskrivelser skal gjøres tilgjengelig for medlemmene av Spillforeningen 2d6.
 
