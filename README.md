@@ -5,8 +5,7 @@ Organisasjonsnummer: 987487542
 
 # § 1. Formål
 
-## § 1.1. 
-Spillforeningen 2d6 er et initiativ for å samle spillere av Warmachine/Hordes i Oslo, og tilby et møtested for disse. Tanken er at et lokale i sentrum gjør det lettere for personer som ikke kjenner hverandre så godt å spille sammen. Dermed vil medlemmene også utvide kunnskapen og gleden ved hobbyen. Spillforeningen 2d6 håper å å bli en ressurs i Norge på Warmachine/Hordes. Spillforeningen 2d6 har som formål og ikke tjene penger på virksomheten. Medlemmene må selv bekoste prisen å drifte klubblokalene. Spillforeningen 2d6 er en sosial forening, der vi skal ha det hyggelig sammen, og hvor medlemmene kan samles om hobbyen sin.
+Spillforeningen 2d6, heretter 2d6, er en forening for Warmachine/Hordes spillere. 2d6 skal leie et spilllokale sentralt i Oslo hvor medlemmene har fri tilgang. 2d6 har ikke som formål å tjene penger på virksomheten.
 
 # § 2. 2d6 generalforsamling og årsmøte
 
