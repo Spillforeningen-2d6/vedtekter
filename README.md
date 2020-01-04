@@ -3,51 +3,64 @@ KLUBBVEDTEKTER FOR SPILLFORENINGEN 2D6
 Organisasjonsnummer: 987487542
 
 
-# § 1. Formål
+# § 1 Formål
 
-Spillforeningen 2d6, heretter 2d6, er en forening for Warmachine/Hordes spillere. 2d6 skal leie et spilllokale sentralt i Oslo hvor medlemmene har fri tilgang. 2d6 har ikke som formål å tjene penger på virksomheten.
+Spillforeningen 2d6, heretter 2d6, er en forening for Warmachine and Hordes (WmH), Kings of War (KoW) og Guild Ball spillere. 2d6 skal leie et spillokale sentralt i Oslo hvor medlemmene har fri tilgang. 2d6 har ikke som formål å tjene penger på virksomheten.
 
-# § 2. 2d6 generalforsamling og årsmøte
+# § 2 Organisasjonsform
+Foreningen er en frittstående juridisk person med medlemmer, og er selveiende. At den er selveiende innebærer at ingen, verken medlemmer eller andre, har krav på foreningens formue eller eiendeler, eller er ansvarlig for gjeld eller andre forpliktelser.
 
-## § 2.1. Generalforsamling 
-Det skal avholdes 1 årsmøte pr. år hvor generalforsamlingen i Spillforeningen 2d6 møtes, i desember mnd., og ellers ved behov. Da etter en innkalling fra styret i Spillforeningen 2d6. Årsmøteinnkallingen legges ut på klubbforumet minimum 14 dager før årsmøtet avholdes. For at generalforsamlingen skal være beslutningsdyktige, må minst 3 fra sittende styre være til stede, og totalt minimum 1/3 av klubbens medlemmer. Kravet om 1/3 oppmøte frafaller hvis minimum 10 medlemmer møter opp (inkludert 3 eller flere fra sittende styre), uansett det totale medlemsantallet i Spillforeningen 2d6.
+# § 3 Årsmøte
+Årsmøtet skal avholdes hvert år innen 20. april og er foreningens høyeste myndighet. 
 
-## § 2.2. Årsmøte
-Sakslisten til årsmøtet skal formelt godkjennes av generalforsamlingen som første punkt av årsmøtet. Innsigelser mot sakslisten eller generalforsamlingens gyldighet kan forelegges på dette tidspunkt. Sakslisten skal legges ut på klubbforumet minimum 14 dager før årsmøtet, gjerne sammen med innkallingen.
+> For at årsmøte skal være beslutningsdyktig må minimum 1/3 av klubbens medlemmer møte. Kravet om 1/3 oppmøte frafaller hvis minimum 10 medlemmer møter uansett det totale medlemsantallet.
 
-## § 2.3. Saksliste
-Saker som ikke er satt opp på sakslisten kan ikke behandles av generalforsamlingen på årsmøtet med mindre 2/3 av generalforsamlingen krever det. Slike beslutninger skal tas under generalforsamlingens godkjenning av sakslisten.
+eller
 
-## § 2.4. Ekstraordinære årsmøter
-Ekstraordinære årsmøter holdes når styret eller minst 1/3 av de stemmeberettigede medlemmene krever det. Det innkalles på samme måte som ved regulære årsmøter med minst 14 dagers varsel. Ekstraordinære årsmøter kan bare behandle saker som er kunngjort i innkallingen. Hele det sittende styre har møteplikt hvis innkallingen kommer fra 1/3 av de stemmeberettigede medlemmene.
+> Årsmøtet er beslutningsdyktig med det antall stemmeberettigede medlemmer som møter, og alle medlemmer har én stemme. Møteleder velges av årsmøtet.
 
-## § 2.5. Generalforsamling
-Generalforsamlingen på Spillforeningen 2d6 sitt årsmøte skal gjennomgå fjorårets regnskap, velge nytt styre og planlegge neste års turneringer (hvis mulig sette dato og bestemme turneringsarrangører) m.m. Avgjørelsene som fattes av årsmøtet er å regne for vedtak. Ved uenighet avgjøres tvister demokratisk, d.v.s. ved å stemme. Alle medlemmenes stemmer teller like mye. Ved likt antall stemmer, teller styreleders stemme dobbelt.
-Hvis ikke noe annet er bestemt skal et vedtak være gyldig dersom et alminnelig flertall stemmer for det.
+Årsmøtet innkalles av styret med minst tre ukers varsel. Forslag som skal behandles på årsmøtet skal være sendt til styret senest to uker før årsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest en uke før årsmøtet.
 
-### § 2.5.1 Referat
-Det skal skrives referat fra samtlige generalforsamlinger. Dette skal gjøres innen 14 dager etter avholdt møte, og legges ut på forumet vårt. 1 kopi skal også legges i dropbox og skrives ut og legges i klubbmappa vår.
+Årsmøtet kan ikke behandle forslag som ikke er oppført på sakslisten, med mindre 2/3 av de stemmeberettigede krever det.
 
-# § 3. Valg
+## § 3.1 Årsmøtes oppgaver
 
-## § 3.1. 
-Valg kan foregå hemmelig dersom det blir fremmet krav om det. Når kandidater til styreverv skal velges, blir den som oppnår over halvparten av stemmene valgt. Blanke stemmesedler anses ikke som avgitte stemmer. Dersom ingen av kandidatene har oppnådd over halvparten av stemmene, blir det tvunget omvalg mellom de to kandidatene som oppnådde flest stemmer i første omgang. Er det stemmelikhet etter den andre valgomgangen, avgjøres valget med loddtrekning.
+Årsmøtet skal gjennomgå og godkjenne regnskap, behandle innkomne forslag, vedta budsjett og velge nytt styre.
 
-## § 3.2. 
-Dersom flere kandidater skal velges samtidig, skal stemmeseddelen inneholde navnet på de kandidatene som får stemmene ved valget. De kandidatene som får flere enn halvparten av stemmene er valgt. Stemmesedler som ikke inneholder noen navn eller inneholder navn på andre enn de som stiller som kandidater er ikke gyldige. Dersom ikke tilstrekkelig antall kandidater får mer enn halvparten av stemmene, vil det bli tvunget omvalg mellom de resterende kandidatene. Ved stemmelikhet vil valget avgjøres med loddtrekning.
+## § 3.2 Referat
+Det skal skrives referat fra årsmøtet. Dette skal gjøres innen 14 dager etter avholdt møte, og gjøres tilgjengelig for alle medlemmer. Referatet skal signeres av 2 medlemmer valgt av årsmøtet.
+
+# § 3.3 Valg
+
+Hvis ikke noe annet er bestemt skal et vedtak være gyldig dersom et alminnelig flertall stemmer for det. Ved stemmelikhet teller styredeler sin stemme dobbelt.
+
+Valg kan foregå hemmelig dersom det blir fremmet krav om det.
+
+### § 3.3.1 Valg av styremedlemmer
+
+Når kandidater til styreverv skal velges, blir den som oppnår over halvparten av stemmene valgt. Dersom ingen av kandidatene har oppnådd over halvparten av stemmene, blir det tvunget omvalg mellom de to kandidatene som oppnådde flest stemmer i første omgang. Er det stemmelikhet etter den andre valgomgangen, avgjøres valget med loddtrekning.
+
+Dersom flere kandidater skal velges samtidig, skal stemmeseddelen inneholde opp til like mange navn som det skal velges kandidater. De kandidatene som får flere enn halvparten av stemmene er valgt. Stemmesedler som inneholder navn på andre enn de som stiller som kandidater er ikke gyldige. Dersom ikke tilstrekkelig antall kandidater får mer enn halvparten av stemmene vil det bli tvunget omvalg mellom de resterende kandidatene. Ved stemmelikhet vil valget avgjøres med loddtrekning.
+
+# § 4 Ekstraordinære årsmøter
+Ekstraordinære årsmøter holdes når styret eller minst 1/3 av de stemmeberettigede medlemmene krever det. 
+
+Det innkalles på samme måte som ved regulære årsmøter med minst 14 dagers varsel. 
+
+Ekstraordinære årsmøter kan bare behandle saker som er kunngjort i innkallingen.
 
 # § 5. Vedrørende drift av Spillforeningen 2d6
 
 ## § 5.1. Klubbmappe
 Mappa skal inneholde leiekontrakten vår, årsregnskaper, referater, rutinebeskrivelser og ellers all relevant informasjon for å kunne drifte Spillforeningen 2d6. Begrepet klubbmappe kan brukes om en elektronisk mappe, f.eks. dropbox eller lignende.
 
-## § 5.3. Interne rutiner
+## § 5.2. Interne rutiner
 Styret har ansvar for at det utarbeides egne rutiner for å lette driften av 2d6, skape forutsigbarhet og likebehandling, samt sikre en forsvarlig, økonomisk driftsmodell. Slike rutiner skal godkjennes av medlemmene før iverksettelse. Det samme gjelder ved endring og fjerning av eksisterende rutine. Alle rutinebeskrivelser skal gjøres tilgjengelig for medlemmene av Spillforeningen 2d6.
 
 ## § 5.3. Medlemsavgiften
 
 ### § 5.3.1. 
-Medlemsavgiften er p.t. på kr 3600,- i året pr. medlem. Alle medlemmer gjør innbetalinger à kr 300,- pr. mnd. Dette skal gjøres den 20. hver mnd. Alle medlemmer av Spillforeningen skal avtale automatisk trekk med bankene sine.
+Medlemsavgiften er på kr 300,- per måned. Innbetaling skal gjøres den 20. hver mnd til 2d6 sin konto. Alle medlemmer oppfordres til å avtale automatisk trekk med bankene sine.
 
 Månedskontingenten betales forskuddsvis, og gir medlemskap for etterfølgende mnd.
 
