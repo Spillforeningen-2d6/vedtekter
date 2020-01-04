@@ -30,7 +30,7 @@ eller
 ## § 3.2 Referat
 Det skal skrives referat fra årsmøtet. Dette skal gjøres innen 14 dager etter avholdt møte, og gjøres tilgjengelig for alle medlemmer. Referatet skal signeres av 2 medlemmer valgt av årsmøtet.
 
-# § 3.3 Valg
+## § 3.3 Valg
 
 Hvis ikke noe annet er bestemt skal et vedtak være gyldig dersom et alminnelig flertall stemmer for det. Ved stemmelikhet teller styredeler sin stemme dobbelt.
 
