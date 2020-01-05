@@ -86,7 +86,6 @@ Styret skal
 * iverksette årsmøtebestemmelser
 * oppnevne eventuelle komiteer, utvalg eller personer som skal gjøre spesielle oppgaver, og utarbeide instruks for disse
 * administrere og føre nødvendig kontroll med foreningens økonomi i henhold til gjeldende instrukser og bestemmelser
-* representere foreningen utad
 
 # § 10 Vedtektsendringer
 
