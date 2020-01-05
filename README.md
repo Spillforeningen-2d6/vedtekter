@@ -57,7 +57,7 @@ Medlemsavgiften er på kr 300,- per måned. Månedskontingenten betales forskudd
 
 Styret skal opprette retningslinjer for hvordan medlemsavgiften skal betales inn og fastette konsekvenser for manglende innbetalinger. Disse retningslinjene må gjøres tilgjengelig for medlemmene.
 
-## § 6 Medlemmer
+# § 6 Medlemmer
 
 For å bli medlem av 2d6 må man være minst 20 år gammel. I tillegg må nye medlemmer også oppfylle minst ett av følgende kriterier:
 * inneha minimum 1 malt fraksjon, 75 poeng eller større i WmH
