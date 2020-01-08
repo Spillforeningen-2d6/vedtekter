@@ -1,4 +1,4 @@
-# Retningslinjer for medlemsavgift
+# Retningslinjer for medlemsavgift og kioskoppgjør
 
 ## Innbetaling
 
@@ -14,6 +14,6 @@ Ved fortsatt manglende innbetaling vil styret vurdere å avslutte medlemskapet.
 
 Ved gjentagelser kan følgende tiltak vurderes iverksatt av styret. Mer enn 3 purringer totalt på 1 år: oppsigelse av medlemskapet og utestengelse fra 2d6 i opptil 12 mnd. Ved fortsatt purringer etter utestengelse og nytt medlemskap: oppsigelse av medlemskapet og permanent utestengelse fra 2d6.
 
-## Manglende kiosk oppgjør
+## Manglende kioskoppgjør
 
 Ved manglende oppgjør av regning på kiosk-varer, vil medlemmet motta en purring fra styret, ved mail. Frist for betaling vil være 7 dager etter mottatt mail. Ved fortsatt manglende oppgjør av regning på kiosk-varer vil straffegebyr på kr 50,- pr. purring bli benyttet. 3 purringer er maks. Frist mellom hver purring er minimum 14 dager. Ved mer enn 3 purringer kan styret vurdere utestengelse fra 2d6-kiosken i opptil 12 mnd. Ved stadige gjentagelser ut over dette, kan styret vurdere opptil permanent utestengelse fra 2d6-kiosken.
