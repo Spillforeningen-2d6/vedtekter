@@ -14,7 +14,7 @@ Foreningen er en frittstående juridisk person med medlemmer, og er selveiende. 
 
 Årsmøtet skal avholdes hvert år innen 20. april og er foreningens høyeste myndighet.
 
-Årsmøtet er beslutningsdyktig med det antall stemmeberettigede medlemmer som møter, og alle medlemmer har én stemme. 
+For at årsmøte skal være beslutningsdyktig må minimum 1/3 av klubbens medlemmer møte. Kravet om 1/3 oppmøte frafaller hvis minimum 10 medlemmer møter uansett det totale medlemsantallet. Alle medlemmer har én stemme.
 
 Årsmøtet innkalles av styret med minst tre ukers varsel. Forslag som skal behandles på årsmøtet skal være sendt til styret senest to uker før årsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest en uke før årsmøtet.
 
