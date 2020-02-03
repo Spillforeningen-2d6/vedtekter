@@ -8,7 +8,7 @@ Organisasjonsnummer: 987487542
 Spillforeningen 2d6, heretter 2d6, er en forening for Warmachine and Hordes (WmH), Kings of War (KoW) og Guild Ball spillere. 2d6 skal leie et spillokale sentralt i Oslo hvor medlemmene har fri tilgang. 2d6 har ikke som formål å tjene penger på virksomheten.
 
 # § 2 Organisasjonsform
-Foreningen er en frittstående juridisk person med medlemmer, og er selveiende. At den er selveiende innebærer at ingen, verken medlemmer eller andre, har krav på foreningens formue eller eiendeler, eller er ansvarlig for gjeld eller andre forpliktelser.
+Foreningen er en frittstående juridisk person med medlemmer, og er selveiende. At den er selveiende innebærer at ingen, verken medlemmer eller andre, har krav på foreningens formue eller eiendeler, eller er ansvarlig for gjeld eller andre forpliktelser. Eventuelt overskudd reinvesteres i drift eller aktivitet i regi av klubben.
 
 # § 3 Årsmøte
 
